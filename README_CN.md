@@ -54,4 +54,4 @@ duckduckgo-ai-chat-service
 
 ## 使用
 
-将需要用到 OpenAI API 的地方的 base url 改成部署得到的即可。
+将需要用到 OpenAI API 的地方的 base url 改成部署得到的url。
